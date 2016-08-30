@@ -6,8 +6,8 @@ To download the extension to your copy of Visual Studio, search for "Match Optio
 
 ## Prerequisites
 
-* Visual Studio 2015
-* Visual Studio 2015 SDK
+* Visual Studio 2012
+* Visual Studio 2012 SDK
 
 ## Building
 
