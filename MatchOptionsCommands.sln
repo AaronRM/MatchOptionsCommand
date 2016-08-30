@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchOptionsCommands", "MatchOptionsCommands\MatchOptionsCommands.csproj", "{2349F2B8-1AD3-41DD-AAA1-8651F562ACBF}"
 EndProject
 Global

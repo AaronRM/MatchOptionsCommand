@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="b2d87278-f864-4807-a3ed-c8bde7d9766b" Version="1.0" Language="en-US" Publisher="Aaron Marten" />
+    <Identity Id="b2d87278-f864-4807-a3ed-c8bde7d9766b" Version="1.0.1" Language="en-US" Publisher="Aaron Marten" />
     <DisplayName>Match Options Commands</DisplayName>
     <Description xml:space="preserve">Adds commands to quickly toggle match options in the Visual Studio standard toolbar.</Description>
+    <MoreInfo>https://github.com/AaronRM/MatchOptionsCommands</MoreInfo>
+    <License>LICENSE</License>
     <Icon>Icon.png</Icon>
     <PreviewImage>PreviewImage.png</PreviewImage>
   </Metadata>
